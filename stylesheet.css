@@ -1,0 +1,99 @@
+header {
+    Display: block;
+}
+
+body {
+    background: url(https://res.cloudinary.com/ds5ifix5b/image/upload/v1579644920/Tiger-Stripes_3_xqxfjd.jpg);
+    background-size: cover;
+    height: 100;
+}
+
+div {
+    display: block;
+}
+
+nav {
+    Display: block;
+}
+
+#main-menu a {
+    Display: block;
+    padding: 2rem;
+    color: #0D3182;
+    text-decoration: none;
+    float: right;
+}
+
+.logo img {
+    width: 150px;
+    padding-left: 3rem;
+    margin-top: -2rem;
+}
+
+.tigers-team {
+    text-align: Center;
+    padding: 5 rem 5 rem 5 rem 5 rem
+}
+
+.tigers-team img {
+    width: 30%;
+    image-orientation: inherit;
+    padding-right: 5rem;
+}
+
+table {
+    Display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    width: 50%;
+    font-family: "garamond", "open sans", "sans-serif";
+    font-size: 1rem;
+    margin: 3rem auto;
+  }
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+}
+
+tr {
+    display: table-row;
+
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+  
+.schedule {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 2rem;
+  }
+
+.schedule td {
+    padding: .5rem;
+}
+  
+.away {
+    color: #888C8F;
+  }
+  
+.home {
+    font-weight: bold;
+    color: #0D3182;
+  }
+  
+.location {
+    color: #cb7119;
+  }
+  
+.memphis img {
+    width: 150px;
+    margin-left: -100px;
+}
+
+.memphis {
+    text-align: center;
+}
